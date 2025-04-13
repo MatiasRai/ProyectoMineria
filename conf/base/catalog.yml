@@ -1,6 +1,10 @@
-Mental_Health_Dataset:
+starcraft_duoc:
   type: pandas.CSVDataset
-  filepath: data/01_raw/Mental_Health_Dataset.csv
+  filepath: data/01_raw/starcraft_duoc.csv
+  load_args:
+    delimiter: ";"  # Si el delimitador es punto y coma
+    on_bad_lines: skip  # Si quieres omitir las líneas problemáticas
+
 
 nulos_data:
   type: pandas.CSVDataset
