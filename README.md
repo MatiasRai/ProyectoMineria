@@ -39,7 +39,7 @@ kedro jupyter notebook
 
 
 ### Otra opción es utilizar IPython
-And if you want to run an IPython session:
+Y si quieres ejecutar una sesión IPython:
 
 ```
 kedro ipython
@@ -47,3 +47,7 @@ kedro ipython
 
 ### Documentación y enlaces útiles
 - [Documentación de Kedro](https://docs.kedro.org)
+
+
+### Copyright 
+Todos los derechos reservados MatiasCompany 2025
