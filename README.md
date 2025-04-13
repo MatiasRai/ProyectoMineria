@@ -1,49 +1,49 @@
 # Starcraft
 
 
-# Starcraft video game prediction project
+# Proyecto predicción estadisctica del videojuego Starcraft
 
-The main objective of this project is to develop a predictive model based on data from the Starcraft II video game, which will allow predicting player performance. This will be achieved by analyzing various player variables, such as hours played per week (HoursPerWeek), actions per minute (APM), league level (LeagueIndex), and other relevant characteristics. This analysis will seek to provide insights that can help improve player performance, optimize gameplay, and also create effective strategies to enhance the player experience.
+El objetivo principal de este proyecto es desarrollar un modelo predictivo basado en datos del videojuego Starcraft II, que permita predecir el rendimiento de los jugadores. Esto se logrará analizando diversas variables de los jugadores, como las horas jugadas por semana (HoursPerWeek), las acciones por minuto (APM), el nivel de la liga (LeagueIndex), y otras características relevantes. Este análisis buscará proporcionar insights que puedan ayudar a mejorar el rendimiento de los jugadores, optimizar el juego y también crear estrategias efectivas para mejorar la experiencia de los jugadores.
 
-CRISP-DM Methodology: To carry out this project, the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology will be used, one of the most popular and comprehensive methodologies for data mining and machine learning projects.
+Metodología CRISP-DM: Para llevar a cabo este proyecto, se utilizará la metodología CRISP-DM (Cross-Industry Standard Process for Data Mining), una de las metodologías más populares y completas para proyectos de minería de datos y aprendizaje automático. 
 
 
-## Installing Dependencies:
+## Instalar dependencias:
 
-Declare any dependencies in requirements.txt for pip installation.
+Declare cualquier dependencia en requirements.txt para pip installation.
 
-To install them, run:
+Para instalarlas, ejecuta:
 
 ```
 pip install -r requirements.txt
 ```
 
-## How to run a pipeline:
-You can run your Kedro project with:
+## Cómo ejecutar un pipeline:
+Puedes ejecutar tu proyecto Kedro con:
 
 ```
 kedro run
 ```
 
 
-### How to run Jupyter Notebook:
-To use Jupyter notebooks in your Kedro project, you need to install Jupyter:
+### Cómo ejecutar Jupyter Notebook:
+Para usar cuadernos Jupyter en su proyecto Kedro, necesita instalar Jupyter:
 ```
 pip install jupyter
 ```
 
-After installing Jupyter, you can start a local notebook server:
+Después de instalar Jupyter, puede iniciar un servidor de notebook local:
 ```
 kedro jupyter notebook
 ```
 
 
-### Another option is to use IPython
+### Otra opción es utilizar IPython
 And if you want to run an IPython session:
 
 ```
 kedro ipython
 ```
 
-### Documentation and Useful Links
+### Documentación y enlaces útiles
 - [Documentación de Kedro](https://docs.kedro.org)
