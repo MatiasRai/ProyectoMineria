@@ -44,3 +44,8 @@ kedro jupyter notebook
 And if you want to run an IPython session:
 
 ```
+kedro ipython
+```
+
+### Documentation and Useful Links
+- [Documentación de Kedro](https://docs.kedro.org)
