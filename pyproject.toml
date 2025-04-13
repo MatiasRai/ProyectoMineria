@@ -3,12 +3,12 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "psicologia"
+name = "starcraft"
 readme = "README.md"
 dynamic = ["dependencies", "version"]
 
 [project.scripts]
-psicologia = "psicologia.__main__:main"
+starcraft = "starcraft.__main__:main"
 
 [project.entry-points."kedro.hooks"]
 
@@ -34,8 +34,8 @@ where = ["src"]
 namespaces = false
 
 [tool.kedro]
-package_name = "psicologia"
-project_name = "psicologia"
+package_name = "starcraft"
+project_name = "starcraft"
 kedro_init_version = "0.19.8"
 tools = ['Linting', 'Testing', 'Documentation']
 example_pipeline = "True"
