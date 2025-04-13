@@ -1,7 +1,7 @@
 # Starcraft
 
 
-# Suicide Risk Prediction Project
+# Starcraft video game prediction project
 
 This project is focused on developing a predictive model to assess suicide risk using a mental health dataset. The aim is to provide advanced analytical tools that can help identify patterns and risk factors associated with suicidal behaviors. CRISP-DM methodology and machine learning techniques will be used to create a system that can assist all individuals in early detection and prevention of suicide, thereby improving the quality and effectiveness of clinical interventions or psychological appointments.
 This project is particularly relevant given the significant impact that suicide has on public health and social well-being. It aims to contribute substantially to global efforts to reduce the incidence of suicide by providing valuable resources to mental health professionals and the community at large.
