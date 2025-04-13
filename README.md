@@ -1,4 +1,4 @@
-# Psychology
+# Starcraft
 
 
 # Suicide Risk Prediction Project
