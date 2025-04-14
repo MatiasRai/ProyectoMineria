@@ -37,13 +37,14 @@ Después de instalar Jupyter, puede iniciar un servidor de notebook local:
 kedro jupyter notebook
 ```
 ### Pip utilizados:
+```
 pip install kedro
 pip install xgboost
 pip install imbalanced-learn
 pip install flask
 pip install werkzeug
 pip install scikit-learn
-
+```
 ### Otra opción es utilizar IPython
 Y si quieres ejecutar una sesión IPython:
 
